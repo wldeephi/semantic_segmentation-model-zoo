@@ -1,1 +1,7 @@
 
+Official_SegNet_basic:
+
+1) Publications_link:    https://arxiv.org/pdf/1505.07293.pdf
+2) Caffe-SegNet_link:    https://github.com/TimoSaemann/caffe-segnet-cudnn5 
+                         https://github.com/alexgkendall/caffe-segnet
+3) Exampled_Models_link: https://github.com/alexgkendall/SegNet-Tutorial
